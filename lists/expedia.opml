@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Expedia Engineering Blogs</title>
+  </head>
+  <body>
+   <outline text="Expedia Engineering Blogs" title="Expedia Engineering Blogs">
+      <outline type="rss" text="Expedia" title="Expedia" xmlUrl="https://techblog.expedia.com/feed/" htmlUrl="https://techblog.expedia.com/"/>
+      <outline type="rss" text="Hotwire" title="Hotwire" xmlUrl="http://techblog.hotwire.com/feed/" htmlUrl="http://techblog.hotwire.com/"/>
+      <outline type="rss" text="HomeAway" title="HomeAway" xmlUrl="https://tech.homeaway.com/feed.xml" htmlUrl="https://tech.homeaway.com/"/>
+      <outline type="rss" text="Trivago" title="Trivago" xmlUrl="https://www.reddit.com/domain/tech.trivago.com/.rsshttps://www.reddit.com/domain/tech.trivago.com/.rss" htmlUrl="http://tech.trivago.com"/>
+   </outline>
+  </body>
+</opml>
